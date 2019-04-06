@@ -1,3 +1,7 @@
+# Burger Builder app
+
+This app allows you to create a burger with build controls, powered by React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
