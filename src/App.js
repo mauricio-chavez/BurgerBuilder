@@ -8,11 +8,11 @@ import './App.sass';
 
 class App extends Component {
   render() {
-    return (
-      <Layout>
-        <BurgerBuilder />
-      </Layout>
-    );
+	return (
+	  <Layout>
+		<BurgerBuilder />
+	  </Layout>
+	);
   }
 }
 
