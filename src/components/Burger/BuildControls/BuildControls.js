@@ -24,6 +24,7 @@ const BuildControls = props => {
 
 	return (
 		<div className={ styles.BuildControls }>
+			<p>Current price: <strong>${props.price.toFixed(2)}</strong></p>
 			{ controls }
 		</div>
 	);
