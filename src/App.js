@@ -7,13 +7,15 @@ import './App.sass';
 
 
 class App extends Component {
-  render() {
-	return (
-	  <Layout>
-		<BurgerBuilder />
-	  </Layout>
-	);
-  }
+	render() {
+		return (
+			<div>
+				<Layout>
+					<BurgerBuilder />
+				</Layout>
+			</div>
+		);
+	}
 }
 
 export default App;
